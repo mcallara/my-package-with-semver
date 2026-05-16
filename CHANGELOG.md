@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`22a2cb8`](https://github.com/mcallara/my-package-with-semver/commit/22a2cb8c2e2def18958da7d6cb80c872cb7cc00a))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
