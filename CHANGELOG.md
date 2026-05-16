@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`0ec03b3`](https://github.com/mcallara/my-package-with-semver/commit/0ec03b3f4146842d2896077b25b9365ed410f488))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
